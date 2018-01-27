@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SamPageCollection_Example' do
+  pod 'SamPageCollection', :path => '../'
+
+  target 'SamPageCollection_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
