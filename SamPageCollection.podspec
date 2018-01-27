@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'SamPageCollection'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of SamPageCollection.'
+  s.summary          = 'SamPageCollection.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,10 +18,10 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+     PageCollection 集成了类似网易新闻title标签和视图控制器的联动效果
                        DESC
 
-  s.homepage         = 'https://github.com/akzpntdlb@163.com/SamPageCollection'
+  s.homepage         = 'https://github.com/348446059/SamPageCollection'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'akzpntdlb@163.com' => 'libot@yonyou.com' }
